@@ -1,0 +1,10 @@
+C:\Users\DTR\OneDrive\Visual Studio Solutions\Log4netTest\Log4netTest\bin\Debug\Log4netTest.exe.config
+C:\Users\DTR\OneDrive\Visual Studio Solutions\Log4netTest\Log4netTest\bin\Debug\Log4netTest.exe
+C:\Users\DTR\OneDrive\Visual Studio Solutions\Log4netTest\Log4netTest\bin\Debug\Log4netTest.pdb
+C:\Users\DTR\OneDrive\Visual Studio Solutions\Log4netTest\Log4netTest\bin\Debug\log4net.dll
+C:\Users\DTR\OneDrive\Visual Studio Solutions\Log4netTest\Log4netTest\bin\Debug\log4net.xml
+C:\Users\DTR\OneDrive\Visual Studio Solutions\Log4netTest\Log4netTest\obj\Debug\Log4netTest.csproj.AssemblyReference.cache
+C:\Users\DTR\OneDrive\Visual Studio Solutions\Log4netTest\Log4netTest\obj\Debug\Log4netTest.csproj.CoreCompileInputs.cache
+C:\Users\DTR\OneDrive\Visual Studio Solutions\Log4netTest\Log4netTest\obj\Debug\Log4netTest.csproj.CopyComplete
+C:\Users\DTR\OneDrive\Visual Studio Solutions\Log4netTest\Log4netTest\obj\Debug\Log4netTest.exe
+C:\Users\DTR\OneDrive\Visual Studio Solutions\Log4netTest\Log4netTest\obj\Debug\Log4netTest.pdb
